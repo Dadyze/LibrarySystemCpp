@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1591311362 source:d:\dadyze\desktop\projekat\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<fstream>
+	<cstdlib>
+	<vector>
+

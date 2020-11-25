@@ -1,0 +1,54 @@
+Ime: Kameni Spavac
+Pisac: Mak Dizdar
+ID: 1
+Kolicina: 3
+Datum Izdavanja: 2/3/1928.
+
+Broj Zaduzenih knjiga: 2
+Zaduzena kod: 
+Amila Imamovic
+Benjamin Jahic
+
+---------------------->
+Ime: Ponornica
+Pisac: Skender Kulenovic
+ID: 2
+Kolicina: 2
+Datum Izdavanja: 2/4/1999.
+
+Broj Zaduzenih knjiga: 1
+Zaduzena kod: 
+Adin Jahic
+
+---------------------->
+Ime: kameni spavac§
+Pisac: mak dizdar
+ID: 1
+Kolicina: 34
+Datum Izdavanja: 2/3/1944.
+
+Broj Zaduzenih knjiga: 0
+Zaduzena kod: 
+
+---------------------->
+Ime: ponornica
+Pisac: skender kulenovic
+ID: 2
+Kolicina: 22
+Datum Izdavanja: 1/2/1999.
+
+Broj Zaduzenih knjiga: 1
+Zaduzena kod: 
+hanad
+
+---------------------->
+Ime: tvrdjava
+Pisac: mesa selimovic
+ID: 3
+Kolicina: 222
+Datum Izdavanja: 1/2/3300.
+
+Broj Zaduzenih knjiga: 0
+Zaduzena kod: 
+
+---------------------->
